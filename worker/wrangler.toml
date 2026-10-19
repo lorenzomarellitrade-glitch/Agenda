@@ -6,7 +6,7 @@ compatibility_date = "2025-09-01"
 # Contatto richiesto da VAPID: puoi mettere la tua mail (mailto:...) o l'indirizzo dell'app (https://...).
 VAPID_SUBJECT = "mailto:agenda@example.com"
 # Dopo la pubblicazione su GitHub Pages metti qui l'origine dell'app, es. "https://nomeutente.github.io".
-ALLOWED_ORIGIN = "*"
+ALLOWED_ORIGIN = "https://lorenzomarellitrade-glitch.github.io"
 
 [[kv_namespaces]]
 binding = "AGENDA"
